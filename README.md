@@ -8,9 +8,9 @@ This is the Readme
 
 ## Roadmap:
 
-- [ ] More sections!
-- [ ] More links to my socials
-- [ ] Maybe a forum board
-- [ ] An interactive portfolio to my work
+- [x] More sections!
+- [x] More links to my socials
+- [ ] Maybe a forum board (THIS IS CANCELLED I DONT WANNA IMPLEMENT THIS)
+- [x] An interactive portfolio to my work
 
 I hope you like it!
