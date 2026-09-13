@@ -1,20 +1,14 @@
 # Welcome to Niks' Personal Site
 
----
-
 Now usually you'd see me spin up a fancy RoR project, or use a typescript framework, but the reason I'm
 making a SWP is because this project is a Hack Club project, and also, would it NOT be nice to go
 back to your roots? after all this IS how I got introduced to CS.
-
----
 
 # AI NOTICE:
 - I used Claude minimally for the building of CSS and styling in this project, every line is personally
 audited, battle-tested, and gazed upon (for critique) until it fit the exact vision I had for the project
 
 - Google AI Overview (The answer that shows up when you google something) is also utilized in debugging steps and reading about how to fix certain visual anomalies that I can't quite describe to a Reddit post or get an answer for in time
-
----
 
 ## This is the Readme
 
