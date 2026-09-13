@@ -1,5 +1,9 @@
 Welcome to Niks' Personal Site
 
+Now usually you'd see me spin up a fancy RoR project, or use a typescript framework, but the reason I'm
+making a SWP is because this project is a Hack Club project, and also, would it NOT be nice to go
+back to your roots? after all this IS how I got introduced to CS.
+
 This is the Readme
 
 - index.html has all the elements
